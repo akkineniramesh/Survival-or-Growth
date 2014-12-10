@@ -1,4 +1,5 @@
 1.tex
+Survival mode.tex
 2.tex
 3.tex
 figures/figure/figure.png
