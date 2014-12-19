@@ -5,6 +5,7 @@ Effects of Survival mode.tex
 Growth mode.tex
 Growth Pathways.tex
 Effects of Growth mode.tex
+Implications.tex
 bibliography about T cells.tex
 Bibliography about PI3K.tex
 Bibliography about Peroxidation.tex
