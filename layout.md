@@ -7,6 +7,7 @@ Growth Pathways.tex
 Effects of Growth mode.tex
 Implications.tex
 Bibliography about modes.tex
+Bibliography about angiogenesis.tex
 bibliography about T cells.tex
 Bibliography about PI3K.tex
 Bibliography about cancer cells.tex
