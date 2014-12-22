@@ -1,6 +1,5 @@
 quotation-1.tex
 quotation-2.tex
-quotation-3.tex
 Introduction.tex
 Survival mode.tex
 Absence of Food.tex
