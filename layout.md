@@ -9,6 +9,7 @@ Growth mode.tex
 Growth Pathways.tex
 Effects of Growth mode.tex
 Implications-1.tex
+Implications-2.tex
 Bibliography about modes.tex
 Bibliography about angiogenesis.tex
 bibliography about T cells.tex
