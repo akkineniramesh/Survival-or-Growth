@@ -1,4 +1,5 @@
 Introduction.tex
+quotations.tex
 Survival mode.tex
 Absence of Food.tex
 Effects of Survival mode.tex
