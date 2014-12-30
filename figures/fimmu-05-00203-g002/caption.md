@@ -1,1 +1,1 @@
-Showing dendritic cells in survival/catabolism mode and growth/anabolism mode. Image from the article 'Metabolic control of dendritic cell activation and function'\cite{24847328}
+Figure above showing dendritic cells in survival/catabolism mode and growth/anabolism mode. Image from the article 'Metabolic control of dendritic cell activation and function'\cite{24847328}
