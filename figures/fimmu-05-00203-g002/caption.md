@@ -1,1 +1,1 @@
-Replace this text with your caption
+Showing dendritic cells in survival/catabolism mode and growth/anabolism mode. Image from the article\cite{24847328}
