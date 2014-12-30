@@ -1,1 +1,1 @@
-Replace this text with your caption
+Figure above showing survival/catabolism mode and growth/anabolism mode in multiple types of cells. Image from the article 'Nutrient sensing via mTOR in T cells maintains a tolerogenic microenvironment'\cite{Howie_2014}
