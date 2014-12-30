@@ -8,6 +8,7 @@ Growth mode.tex
 Growth Pathways.tex
 Effects of Growth mode.tex
 figures/fimmu-05-00203-g002/fimmu-05-00203-g002.jpg
+figures/fimmu-05-00409-g004/fimmu-05-00409-g004.jpg
 Implications-1.tex
 Implications-2.tex
 Bibliography about modes.tex
