@@ -13,6 +13,7 @@ Implications-1.tex
 Implications-2.tex
 Bibliography about modes.tex
 Bibliography about angiogenesis.tex
+Bibliography about AMPK.md
 bibliography about T cells.tex
 Bibliography about PI3K.tex
 Bibliography about Brain disorders.tex
