@@ -2,7 +2,6 @@ quotation-1.tex
 quotation-2.tex
 Why.tex
 Introduction.tex
-Glossary.tex
 Survival mode.tex
 Absence of Food.tex
 Effects of Survival mode.tex
@@ -14,6 +13,7 @@ figures/fimmu-05-00409-g004/fimmu-05-00409-g004.jpg
 Implications-1.tex
 Cytokines in Inflammation.md
 Implications-2.tex
+Glossary.tex
 Bibliography about modes.tex
 Bibliography about angiogenesis.tex
 Bibliography about AMPK.md
