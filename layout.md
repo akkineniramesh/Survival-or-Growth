@@ -2,6 +2,7 @@ quotation-1.tex
 quotation-2.tex
 Why.tex
 Introduction.tex
+Glossary.tex
 Survival mode.tex
 Absence of Food.tex
 Effects of Survival mode.tex
