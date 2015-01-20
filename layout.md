@@ -12,6 +12,7 @@ figures/fimmu-05-00203-g002/fimmu-05-00203-g002.jpg
 figures/fimmu-05-00409-g004/fimmu-05-00409-g004.jpg
 Implications-1.tex
 Cytokines in Inflammation.md
+figures/PSX_20150120_145246/PSX_20150120_145246.jpg
 Implications-2.tex
 Further Reading.tex
 Glossary.tex
