@@ -1,1 +1,1 @@
-Replace this text with your caption
+Figure above showing relation between Inflammation and Oxidative stress and their impact on the cell. Survival mode is inhibited by and inturn inhibits inflammation and oxidative stress. Growth mode is preferred in inflammation and oxidative stress and also causes them. More evidence for the figure above is preferable before concluding that this is the final and only picture.
