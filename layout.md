@@ -18,6 +18,7 @@ Implications-2.tex
 Using Food to send Messages.md
 Further Reading.tex
 Glossary.tex
+Bibliography about Diets.md
 Bibliography about modes.tex
 Bibliography about angiogenesis.tex
 Bibliography about AMPK.md
