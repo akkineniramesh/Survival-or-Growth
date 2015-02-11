@@ -1,1 +1,1 @@
-Bibliography about Diets\cite{Volek_2012}\cite{Rauch_2014}
+Bibliography about Diets\cite{Volek_2012}\cite{Rauch_2014}\cite{Aguilar_2014}\cite{Volk_2014}\cite{Paoli_2013}
