@@ -1,4 +1,5 @@
 quotation-1.tex
+Gist of the Article.md
 quotation-2.tex
 Why.tex
 Introduction.tex
